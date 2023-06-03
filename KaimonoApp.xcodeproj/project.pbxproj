@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A98DE7FB2A2B722B00935976 /* ItemListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98DE7FA2A2B722B00935976 /* ItemListViewController.swift */; };
 		B8B9FD162A2375DA00E00C75 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8B9FD152A2375DA00E00C75 /* AppDelegate.swift */; };
 		B8B9FD182A2375DA00E00C75 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8B9FD172A2375DA00E00C75 /* SceneDelegate.swift */; };
 		B8B9FD1A2A2375DA00E00C75 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8B9FD192A2375DA00E00C75 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A98DE7FA2A2B722B00935976 /* ItemListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemListViewController.swift; sourceTree = "<group>"; };
 		B8B9FD122A2375D900E00C75 /* KaimonoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KaimonoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8B9FD152A2375DA00E00C75 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B8B9FD172A2375DA00E00C75 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				B8B9FD152A2375DA00E00C75 /* AppDelegate.swift */,
 				B8B9FD172A2375DA00E00C75 /* SceneDelegate.swift */,
 				B8B9FD192A2375DA00E00C75 /* ViewController.swift */,
+				A98DE7FA2A2B722B00935976 /* ItemListViewController.swift */,
 				B8B9FD1B2A2375DA00E00C75 /* Main.storyboard */,
 				B8B9FD1E2A2375E400E00C75 /* Assets.xcassets */,
 				B8B9FD202A2375E400E00C75 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8B9FD1A2A2375DA00E00C75 /* ViewController.swift in Sources */,
+				A98DE7FB2A2B722B00935976 /* ItemListViewController.swift in Sources */,
 				B8B9FD162A2375DA00E00C75 /* AppDelegate.swift in Sources */,
 				B8B9FD182A2375DA00E00C75 /* SceneDelegate.swift in Sources */,
 			);
